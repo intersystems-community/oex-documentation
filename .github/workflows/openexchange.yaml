@@ -1,0 +1,43 @@
+name: OpenExchange documentation deploy
+
+on:
+  push:
+    branches:
+    - master
+    paths:
+    - 'openexchange/**'
+    - '.github/workflows/openexchange.yaml'
+
+# Environment variables.
+# ${{ secrets }} are taken from GitHub -> Settings -> Secrets
+# ${{ github.sha }} is the commit hash
+#env:
+#  PROJECT_ID:          ${{ secrets.PROJECT_ID }}
+#  SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
+#  GKE_ZONE:            ${{ secrets.GKE_ZONE }}
+#  DOC_BUCKET_NAME:     "oex-doc"
+ 
+jobs:
+  documentation-build-deploy:
+    name: OpenExchange documentation. Build & deploy to a bucket
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Setup gcloud cli
+      uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+      with:
+        version: '275.0.0'
+        service_account_key: ${{ secrets.SERVICE_ACCOUNT_KEY }}
+
+    - name: Build Documentation
+      working-directory: openexchange
+      run: |
+        sudo apt update
+        sudo apt-get install -y ruby-full build-essential zlib1g-dev
+        sudo gem install jekyll bundler
+        bundle install
+        bundle exec jekyll build
+        gsutil -m rm gs://${DOC_BUCKET_NAME}/** 2> /dev/null || true
+        gsutil -m cp -r _site/* gs://${DOC_BUCKET_NAME}
