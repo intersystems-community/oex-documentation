@@ -8,14 +8,8 @@ on:
     - 'openexchange/**'
     - '.github/workflows/openexchange.yaml'
 
-# Environment variables.
-# ${{ secrets }} are taken from GitHub -> Settings -> Secrets
-# ${{ github.sha }} is the commit hash
-#env:
-#  PROJECT_ID:          ${{ secrets.PROJECT_ID }}
-#  SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
-#  GKE_ZONE:            ${{ secrets.GKE_ZONE }}
-#  DOC_BUCKET_NAME:     "oex-doc"
+env:
+  DOC_BUCKET_NAME: "oex-doc"
  
 jobs:
   documentation-build-deploy:
