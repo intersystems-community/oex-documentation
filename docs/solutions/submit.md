@@ -25,7 +25,7 @@ Then click on Add Application button:
 <img width="250" alt="Screenshot 2020-10-17 at 13 14 13" src="https://user-images.githubusercontent.com/2781759/96334593-a974f100-107a-11eb-831d-f2448cff4e13.png">
 
 ## Setting up an application: importing data from GitHub
-If your application has the public repository on GitHub you can import the majority of fiellds automatically from Github.
+If your application has the public repository on GitHub you can import the majority of fiellds automatically from Github.   
 Place the URL of your repository in Github URL field:   
 
 <img width="550" alt="Screenshot 2020-10-17 at 13 21 07" src="https://user-images.githubusercontent.com/2781759/96334745-b0e8ca00-107b-11eb-87b3-521d487575e1.png">
@@ -35,6 +35,7 @@ And the data from the GitHub repo will be imported automatically:
 <img width="800" alt="Screenshot 2020-10-17 at 13 34 14" src="https://user-images.githubusercontent.com/2781759/96334831-5bf98380-107c-11eb-97e6-bcef8ea4abdc.gif">
 
 You need to choose the category and select InterSystems Products supported and you good to submit for approval.
+
 ## Setting up an application manually
 And you can feel all the fields manually of course:    
 

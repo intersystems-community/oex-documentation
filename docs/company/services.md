@@ -13,24 +13,23 @@ See example below:
 <img width="800" alt="Screenshot 2020-09-21 at 16 12 23" src="https://user-images.githubusercontent.com/2781759/93770754-4d5ab080-fc25-11ea-9eca-e3bb810b5cf4.png">
 
 ## Creating services
-1. Open your Company's profile:
-<img width="232" alt="Screenshot 2020-10-08 at 11 41 35" src="https://user-images.githubusercontent.com/2781759/95435512-55bc2680-095b-11eb-95bc-66abee2ab883.png">
-
- and click on the SERVICES tab:
-<img width="800" alt="Screenshot 2020-09-21 at 16 16 28" src="https://user-images.githubusercontent.com/2781759/93771177-d376f700-fc25-11ea-830d-2739f351fa07.png">
+1. Open your Company's profile:   
+    <img width="232" alt="Screenshot 2020-10-08 at 11 41 35" src="https://user-images.githubusercontent.com/2781759/95435512-55bc2680-095b-11eb-95bc-66abee2ab883.png">   
+    and click on the SERVICES tab:
+    <img width="800" alt="Screenshot 2020-09-21 at 16 16 28" src="https://user-images.githubusercontent.com/2781759/93771177-d376f700-fc25-11ea-830d-2739f351fa07.png">
 
 2. Click the "New Service" button to add a new one.
 
-Select the type of service. Currently, we have 3 types of services: implementation, consulting, training.
-<img width="800" alt="Screenshot 2020-09-21 at 16 17 43" src="https://user-images.githubusercontent.com/2781759/93771484-3b2d4200-fc26-11ea-9914-1faa3a609ab4.png">
+    Select the type of service. Currently, we have 3 types of services: implementation, consulting, training.
+    <img width="800" alt="Screenshot 2020-09-21 at 16 17 43" src="https://user-images.githubusercontent.com/2781759/93771484-3b2d4200-fc26-11ea-9914-1faa3a609ab4.png">
 
 3. Select InterSystems products you provide the service for:
-<img width="800" alt="Screenshot 2020-09-21 at 16 21 29" src="https://user-images.githubusercontent.com/2781759/93771694-87788200-fc26-11ea-8384-939f414321a2.png">
+    <img width="800" alt="Screenshot 2020-09-21 at 16 21 29" src="https://user-images.githubusercontent.com/2781759/93771694-87788200-fc26-11ea-8384-939f414321a2.png">
 
 4. Add a description, that supports Markdown, so you are able to format text and add hyperlinks.
 
 5. Save the draft service once you are good with the description.
-<img width="655" alt="Screenshot 2020-10-13 at 12 10 59" src="https://user-images.githubusercontent.com/2781759/95840897-6864a000-0d4d-11eb-9214-ab122454b674.png">
+    <img width="655" alt="Screenshot 2020-10-13 at 12 10 59" src="https://user-images.githubusercontent.com/2781759/95840897-6864a000-0d4d-11eb-9214-ab122454b674.png">
 
 
 ## Publishing services
