@@ -3,15 +3,16 @@ layout: home
 nav_exclude: true
 ---
 
-InterSystems Open Exchange is an application gallery that presents solutions, tools, samples, frameworks, interfaces and adapters developed on InterSystems technologies: InterSystems IRIS, IRIS for Health, HealthShare, TrackCare, Caché, Ensemble. Open Exchange is designed to help expose, find, develop, deploy, and support solutions built on InterSystems data platforms.
+# Welcome to InterSystems Open Exchange documentation
 
-
-## Report an Issue
-
-Have an idea? Or found a bug? Please [share it](https://github.com/intersystems-community/openexchange) and make the world a better place for developers. Also, tell us about your application on [Developer Community](https://community.intersystems.com/).
-
-
-
-## Attention!
-
-All solutions are not supported by InterSystems Corporation unless otherwise stated.
+* [Join to InterSystems Open Exchnge](/join/)
+* [Setup your Profile](/profile/)
+* [Solutions FAQ](/solutions/)
+  * [Submit a Solution](/solutions/submit/)
+  * [Update a Solution](/solutions/update/)
+  * [Manage Releases](/solutions/releases/)
+* [Company FAQ](/company/)
+  * [Submit a Company](/company/submit/)
+  * [Manage Company's Solutions](/company/solutions/)
+  * [Manage Company's Services](/company/services/)
+  * [Manage Company's Members](/company/members/)
