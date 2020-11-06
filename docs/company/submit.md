@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Submmit a Company
+title: Submit a Company
 permalink: /company/submit/
 nav_order: 1
 parent: Company FAQ
