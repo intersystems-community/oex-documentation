@@ -15,3 +15,11 @@ In project directory:
 ```
 bundle exec jekyll serve -l
 ```
+
+## Local test
+
+In project directory:
+```
+docker-compose up -d --build 
+```
+Open `http://localhost:8080` in a browser.
