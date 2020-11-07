@@ -2,10 +2,10 @@ title: InterSystems Open Exchange
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   InterSystems Open Exchange is an application gallery that presents solutions, tools, samples, frameworks, interfaces and adapters developed on InterSystems technologies
-#baseurl: "/vscode-objectscript" # the subpath of your site, e.g. /blog
+#baseurl: "/docs" # the subpath of your site, e.g. /blog
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://intersystems-community.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://marketplace-dev.community.intersystems.com"
+url: "https://docs.oex-doc.myardyas.club"
 # twitter_username: ""
 # github_username:  ""
 
