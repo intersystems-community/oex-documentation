@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Submmit a Solution
+title: Submit a Solution
 permalink: /solutions/submit/
 nav_order: 1
 parent: Solutions FAQ

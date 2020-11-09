@@ -5,7 +5,7 @@ nav_exclude: true
 
 # Welcome to InterSystems Open Exchange documentation
 
-* [Join to InterSystems Open Exchnge](/join/)
+* [Join to InterSystems Open Exchange](/join/)
 * [Setup your Profile](/profile/)
 * [Solutions FAQ](/solutions/)
   * [Submit a Solution](/solutions/submit/)
