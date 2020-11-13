@@ -3,7 +3,7 @@ layout: default
 title: Submit a Solution
 permalink: /solutions/submit/
 nav_order: 1
-parent: Solutions FAQ
+parent: Managing Solutions
 ---
 
 # Publishing an Application on Open Exchange

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Submit a Company
+title: Create a Company profile
 permalink: /company/submit/
 nav_order: 1
 parent: Company FAQ

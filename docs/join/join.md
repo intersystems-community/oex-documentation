@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Join to InterSystems Open Exchange
+title: Join InterSystems Open Exchange
 permalink: /join/
 nav_order: 1
 ---

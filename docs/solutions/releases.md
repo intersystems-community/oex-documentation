@@ -3,7 +3,7 @@ layout: default
 title: Manage Releases
 permalink: /solutions/releases/
 nav_order: 3
-parent: Solutions FAQ
+parent: Managing Solutions
 ---
 
 # Application Releases

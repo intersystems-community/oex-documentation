@@ -3,7 +3,7 @@ layout: default
 title: Update a Solution
 permalink: /solutions/update/
 nav_order: 2
-parent: Solutions FAQ
+parent: Managing Solutions
 ---
 
 # Making Changes to a Published Application

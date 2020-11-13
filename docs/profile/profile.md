@@ -5,8 +5,8 @@ permalink: /profile/
 nav_order: 2
 ---
 
-## Seting up a publisher's page
-Publisher Page - is the page, where you can see the publisher and all the apps he deployed.
+## Setting up a developer profile
+Developer Profile Page - is the page, where you can see the Open Exhcange member profile details and all his/her applications.
 
 You can reach it if you click on the publisher name in on the left side of the published app.   
 Like here:   

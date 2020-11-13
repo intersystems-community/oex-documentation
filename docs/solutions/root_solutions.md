@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Solutions FAQ
+title: Managing Solutions
 permalink: /solutions/
 nav_order: 3
 has_children: true
