@@ -12,7 +12,7 @@ The company's members' management gives the option to invite other members of th
 ## Members Roles
 There are two roles which members can take in the Company:
 1. Member of a Company - can publish applications on behalf of the Company.
-2. Admin of a Company - can publish applications on behalf of the Company, can edit the Company's description, can add and edit services and manage members of a Company.
+2. Admin of a Company - can publish applications on behalf of the Company, can edit the Company's description, can add and edit services and manage members of a Company (company can have only one admin).
 
 The first admin member joins when he/she lists the Company on Open Exchange.
 
@@ -39,7 +39,7 @@ And then enter a Token and click Join:
 You cannot join a company if are already a member of another one.
 
 ## Admin: Managing Members
-Admin members can manage other members of a company. 
+Admin member can manage other members of a company. 
 The list of members is shown on a Members tab of the company profile.
 
 <img width="1188" alt="Screenshot 2020-10-24 at 21 59 08" src="https://user-images.githubusercontent.com/2781759/97091441-8d59ec80-1644-11eb-82cb-97a15dba2ed4.png">
