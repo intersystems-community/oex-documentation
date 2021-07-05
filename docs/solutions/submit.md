@@ -6,6 +6,10 @@ nav_order: 1
 parent: Managing Solutions
 ---
 
+#### Publishing process
+
+<iframe width="600" height="345" src="https://www.youtube.com/embed/DBh79bCayh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Publishing an Application on Open Exchange
 You can publish your own or Company's application on Open Exchange and it will be listed in an [Applications Gallery](https://openexchange.intersystems.com/).
 The publishing process is a set of following steps:
@@ -74,6 +78,10 @@ Select the industry(s) to witch your solution implies:
 Check it on if you plan to submit your application to the ZPM Package Manager. [Learn more here](https://community.intersystems.com/post/objectscript-package-auto-publishing-now-available-open-exchange)   
 
 <img width="600" alt="Screenshot 2020-10-17 at 13 55 46" src="https://user-images.githubusercontent.com/2781759/96335309-864d4000-1080-11eb-9310-d1075b8a7d6e.png">
+
+#### Take a look on the full process of creating and submitting ObjectScirpt App to Github with ZPM support
+
+<iframe width="600" height="345" src="https://www.youtube.com/embed/havPyPbUj1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Short description
 This is the description that will appear on application tiles in [the gallery](https://openexchange.intersystems.com/).   
