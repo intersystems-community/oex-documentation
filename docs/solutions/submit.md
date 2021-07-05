@@ -6,11 +6,12 @@ nav_order: 1
 parent: Managing Solutions
 ---
 
+# Publishing an Application on Open Exchange
+
 #### Publishing process
 
 <iframe width="600" height="345" src="https://www.youtube.com/embed/DBh79bCayh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Publishing an Application on Open Exchange
 You can publish your own or Company's application on Open Exchange and it will be listed in an [Applications Gallery](https://openexchange.intersystems.com/).
 The publishing process is a set of following steps:
 1. Register on Open Excahnge
