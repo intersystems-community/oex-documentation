@@ -2,7 +2,7 @@
 layout: default
 title: View analytics
 permalink: /solutions/analytics/
-nav_order: 2
+nav_order: 4
 parent: Managing Solutions
 ---
 
@@ -18,4 +18,4 @@ Also there is a graph that shows:
 - how many visitors clicked green Download\Learn more\GitHub button also split by month
 - conversion rate of these actions
 
-<img width="800" alt="3" src="assets/images/solutions/1.png">
+<img width="800" alt="3" src="/assets/images/solutions/1.png">
