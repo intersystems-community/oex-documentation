@@ -11,6 +11,7 @@ nav_exclude: true
   * [Submit a Solution](/solutions/submit/)
   * [Update a Solution](/solutions/update/)
   * [Manage Releases](/solutions/releases/)
+  * [View analytics](/solutions/analytics/)
 * [Company FAQ](/company/)
   * [Create a Company profile](/company/submit/)
   * [Manage Company's Solutions](/company/solutions/)
