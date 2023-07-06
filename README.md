@@ -9,6 +9,13 @@ In project directory:
 bundle install --deployment
 ```
 
+## Bump Gemfile.lock dependencies versions
+
+In project directory:
+```bash
+bundle update
+```
+
 ## Run livereload serve
 
 In project directory:
@@ -20,6 +27,6 @@ bundle exec jekyll serve -l
 
 In project directory:
 ```
-docker-compose up -d --build 
+docker-compose up -d --build
 ```
 Open `http://localhost:8080` in a browser.
