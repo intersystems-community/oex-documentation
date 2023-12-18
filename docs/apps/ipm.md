@@ -20,13 +20,13 @@ To publish your application to pm.community.intersystems.com complete the follow
 
 You will find a description of module.xml in the documentation https://github.com/intersystems/ipm/wiki/03.-IPM-Manifest-(Module.xml), as well as in the article on the Developer Community: https://community.intersystems.com/post/anatomy-zpm-module-packaging-your-intersystems-solution
 
-In this file, the <Version> </Version> tag should indicate the current version of your project. Follow the Semantic Versioning principle for versions of your application.
+In this file, the `<Version> </Version>` tag should indicate the current version of your project. Follow the Semantic Versioning principle for versions of your application.
 
-1. Place the module.xml file in the root of your project in GitHub
+3. Place the module.xml file in the root of your project in GitHub
 
-2. Test publishing the packageUse the zpm “load” command to load your project according to module.xml
+4. Test publishing the packageUse the `zpm “load”` command to load your project according to module.xml
 
-Use zpm “publish” command to publish your package to the registry (you can use your own registry or a testing registry https://test.pm.community.intersystems.com/registry/)
+Use `zpm “publish”` command to publish your package to the registry (you can use your own registry or a testing registry https://test.pm.community.intersystems.com/registry/)
 
 This is described in more detail in the article: https://community.intersystems.com/post/testing-packages-zpm
 
