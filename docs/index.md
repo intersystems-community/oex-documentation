@@ -7,7 +7,6 @@ nav_exclude: true
 
 * [Join InterSystems Open Exchange](/join/)
   * [Create an account](/join/create/)
-  * [About Open Exchange](/join/about/)
   * [Types of applications](/join/apps/)
 * [Developer portal](/portal/)
   * [Setup your profile](/portal/setup/)

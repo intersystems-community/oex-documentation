@@ -100,4 +100,4 @@ You have the option to save your application, allowing you to revisit it later f
 
  - **Sent for Approval - We will get in touch with you shortly**: Your application is being reviewed.
 
-As soon as we review and approve your app it will ve visible in the catalog on the main page.
+As soon as we review and approve your app it will be visible in the catalog on the main page.

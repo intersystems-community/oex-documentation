@@ -9,17 +9,6 @@ nav_order: 5
 
 You'll find the applications catalog on the main page of InterSystems Open Exchange. You can use filters and search options to discover various available apps.
 
- - On the app tile, you'll see:
- - App name
- - Short description
- - Rating
- - Category
- - Author
- - Number of app page views
- - IPM installs number (if the app has an IPM module) and its install count
-
-You'll find the applications catalog on the main page of InterSystems Open Exchange. You can use filters and search options to discover various available apps.
-
 On the app tile, you'll see:
  - App name
  - Short description

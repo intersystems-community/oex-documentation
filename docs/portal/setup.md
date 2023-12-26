@@ -13,7 +13,7 @@ As soon as you login you can enter your developer portal, where you can:
 
  - Edit your personal data
  - Submit and manage your application
- - View your apps statistics
+ - View your app's statistics
  - Manage your bookmarks
  - Manage your subscriptions 
 
@@ -31,7 +31,7 @@ For more detailed information about this block, please refer to the [Managing Yo
 
 <img width="800" alt="2" src="/assets/images/portal/2.png">
 
-### View your apps statistics
+### View your app's statistics
 
 Under this tab, you'll find a table listing your apps along with the following statistics for each:
 
