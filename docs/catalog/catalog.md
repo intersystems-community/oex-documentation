@@ -26,4 +26,4 @@ Additional details:
  - Blue stroke indicates InterSystems support.
  - A blue upper stroke denotes a featured app.
 
-<img src="/assets/images/catalog/1.png" width="800"> 
+<img src="/assets/images/catalog/1.svg" width="800"> 

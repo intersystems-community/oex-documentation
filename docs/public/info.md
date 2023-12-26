@@ -20,4 +20,4 @@ Here's what you'll find:
  - Initial publishing date of the app.
  - Moderator's last check date and its current status.
 
-<img width="800" alt="2" src="/assets/images/public/2.png">
+<img width="800" alt="2" src="/assets/images/public/2.svg">

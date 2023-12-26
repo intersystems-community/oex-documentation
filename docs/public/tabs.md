@@ -46,4 +46,4 @@ App owners can access this tab during contest registration to apply directly. Vi
 **Reports**:
 Visible to app owners, moderators, and admins, listing all moderator reports, comments, and the app's working status.
 
-<img width="800" alt="3" src="/assets/images/public/3.png">
+<img width="800" alt="3" src="/assets/images/public/3.svg">

@@ -13,4 +13,4 @@ Simply use the same credentials to log in to [InterSystems Open Exchange](https:
 
 If you haven't visited any of the InterSystems platforms before, click on the 'Get started' button and follow the steps to create a new InterSystems SSO account. Once you've created your account, you can use it to log in to the Open Exchange platform or any other InterSystems platform.
 
-   <img width="800" alt="3" src="/assets/images/join/1.png">
+   <img width="800" alt="3" src="/assets/images/join/1.svg">

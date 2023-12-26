@@ -21,7 +21,7 @@ As soon as you login you can enter your developer portal, where you can:
 
 If you're already a part of the [InterSystems Developer Community (DC)](https://community.intersystems.com/) and have completed your profile there, your bio and links will be automatically fetched. If you haven't filled out a DC profile or need to update information, you can manually input your bio and social network links under “Edit profile” tab
 
-<img width="800" alt="1" src="/assets/images/portal/1.png">
+<img width="800" alt="1" src="/assets/images/portal/1.svg">
 
 ### Submit and edit your applications
 
@@ -29,7 +29,7 @@ In this section, you can: (1) initiate the process of submitting applications, (
 
 For more detailed information about this block, please refer to the [Managing Your Application](https://docs.openexchange.intersystems.com/solutions/) documentation section.
 
-<img width="800" alt="2" src="/assets/images/portal/2.png">
+<img width="800" alt="2" src="/assets/images/portal/2.svg">
 
 ### View your app's statistics
 
@@ -47,22 +47,22 @@ Under this tab, you'll find a table listing your apps along with the following s
  - **Created**: Date when you created the entry for your app
  - **Status**: Current status of your app
 
-<img width="800" alt="3" src="/assets/images/portal/3.png">
+<img width="800" alt="3" src="/assets/images/portal/3.svg">
 
 ### Manage your bookmarks
 
 Here, you can view all your apps with IPM (formerly ZPM) command line integration and have the option to remove apps from the list
 
-<img width="800" alt="4" src="/assets/images/portal/4.png">
+<img width="800" alt="4" src="/assets/images/portal/4.svg">
 
 ### Manage your subscriptions
 
 You can view the types of newsletters you are subscribed to and choose to opt in or opt out based on your preferences. Additionally, you'll find a list of apps that you are subscribed to in order to receive their update notifications.
 
-<img width="800" alt="5" src="/assets/images/portal/5.png">
+<img width="800" alt="5" src="/assets/images/portal/5.svg">
 
 ### View reviews
 
 Under the "Review" tab, you can view all reviews you've left for other apps or reviews received for your apps. To switch between reviews you've published and reviews left for your app, use the filter  located at the top of the page.
 
-<img width="800" alt="6" src="/assets/images/portal/6.png">
+<img width="800" alt="6" src="/assets/images/portal/6.svg">

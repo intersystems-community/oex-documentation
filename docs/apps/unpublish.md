@@ -14,4 +14,4 @@ To unpublish an app:
 2. Locate the desired app and click the dropdown menu.
 3. Choose "Unpublish" from the options.
 
-<img width="800" alt="1" src="/assets/images/apps/4-4.png">
+<img width="800" alt="1" src="/assets/images/apps/4-4.svg">

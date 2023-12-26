@@ -18,7 +18,7 @@ In short, the process will be:
 4. Fill in the form.
 5. Send for approval.
 
-<img width="800" alt="1" src="/assets/images/apps/1.png">
+<img width="800" alt="1" src="/assets/images/apps/1.svg">
 
 The most convenient method to complete the form is by using the link to your GitHub or GitLab repository. This action will automatically populate most of the fields with data retrieved from your GitLab or GitHub repository.
 
@@ -82,7 +82,7 @@ Here are  a list of fields to complete when submitting your app:
 
  - **YouTube URL**: if you have a video wich shows you app in action or an installation process you can add to your own youtube channel or send to us and we will add it to developer community channel and you can add the link here
 
-<img width="800" alt="2" src="/assets/images/apps/2.png">
+<img width="800" alt="2" src="/assets/images/apps/2.svg">
 
 You have the option to save your application, allowing you to revisit it later for further edits or additions. When you're prepared to make your application public on OEX, you can click "Send for Approval" to initiate the publication process.
 

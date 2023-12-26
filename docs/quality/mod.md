@@ -16,8 +16,8 @@ Where to view the statuses:
 
 **For other authors' apps**: If the app was checked, you'll find the date and status in the info box on the app's public page.
 
-<img width="800" src="/assets/images/quality/7.png">
+<img width="800" src="/assets/images/quality/7.svg">
 
 **For your own app**: The status can be seen on the app's public page under the "Reports" tab. This tab becomes visible if there is at least one report from the moderator.
 
-<img width="800" src="/assets/images/quality/11.png">
+<img width="800" src="/assets/images/quality/11.svg">

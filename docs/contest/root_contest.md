@@ -14,4 +14,4 @@ To stay updated about ongoing contests:
  - Refer to Open Exchange newsletters
  - Visit the Open Exchange website, where you'll notice a blue dot indicating an ongoing contest.
 
-<img width="800" src="/assets/images/contest/2.png">
+<img width="800" src="/assets/images/contest/2.svg">
