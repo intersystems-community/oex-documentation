@@ -32,4 +32,4 @@ This is described in more detail in the article: https://community.intersystems.
 
 When your app is ready and your IPM module has been thoroughly tested, you're ready to publish it. To do so, proceed with the application submission process on Open Exchange. While filling in the form, ensure to check the box labeled 'Publish in Package manager'
 
-<img width="800" alt="1" src="/assets/images/apps/4-5.png">
+<img width="800" alt="1" src="/assets/images/apps/4-5.svg">

@@ -14,5 +14,5 @@ Within the public Developer account, you'll find:
  - A list of all applications the developer has submitted.
  - Awards received by the developer in programming contests
 
-<img width="800" alt="7" src="/assets/images/portal/7.png">
+<img width="800" alt="7" src="/assets/images/portal/7.svg">
 

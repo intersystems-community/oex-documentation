@@ -12,12 +12,12 @@ If you utilize  [objectscriptQuality for VSCode](https://openexchange.intersyste
 
 1. On the main page filters you can filter all the apps which passed Object Script Quality test
 
-<img width="800" src="/assets/images/contest/3.png">
+<img width="800" src="/assets/images/quality/3.svg">
 
 2. On the public application page (example) you'll find the “passed Object Script Quality test” block in the info box:
 
-<img width="800" src="/assets/images/contest/4.png">
+<img width="800" src="/assets/images/quality/4.svg">
 
 3. In the developer portal, navigate to all your apps, where you can see which apps have passed or haven't passed this test.
 
-<img width="800" src="/assets/images/contest/9.png">
+<img width="800" src="/assets/images/quality/9.svg">

@@ -2,7 +2,7 @@
 layout: default
 title: Types of applications
 permalink: /join/apps/
-nav_order: 3
+nav_order: 2
 parent: Join InterSystems Open Exchange
 ---
 
